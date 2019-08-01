@@ -9,3 +9,8 @@ INSTALLATION and use
 
 `Now you want autorun this login.py so follow this..............`
 
+1.`cd ../usr/etc`
+2.`nano bash.bashrc`
+3.`(here type) cd Login (then enter) python login.py`
+
+for more information visit to my Youtube Channel Technical Dangwal

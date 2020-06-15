@@ -1,7 +1,7 @@
 # Login
 INSTALLATION and use
 
-1. `git clone https://github.com/Adityahacker22/Login.git`
+1. `git clone https://github.com/TechnicalDangwal/Login.git`
 
 2. `cd Login`
 

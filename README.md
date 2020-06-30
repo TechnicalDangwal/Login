@@ -7,12 +7,7 @@ INSTALLATION and use
 
 3. `python login.py`
 
-`Now you want autorun this login.py so follow this..............`
+`Now you want to set your username and password`
 
-1.`cd ../usr/etc`
-
-2.`nano bash.bashrc`
-
-3.`(here type) cd Login (then enter and type )python login.py`
 
 for more information visit to my Youtube Channel Technical Dangwal

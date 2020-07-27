@@ -62,12 +62,12 @@ else:
 				print("")
 				print("")
 				print("")
-		except KeyboardInterrupt as e:
+		except :
 			print("")
 			print("")
 			print("")
 			print("")
-			print("\033[1;31;40m",e,"\033[0m")
+			print("\033[1;31;40mtry again\033[0m")
 			print("")
 			print("")
 			print("")

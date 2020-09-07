@@ -11,7 +11,7 @@ def banner():
 	print("                \033[1;34;40m author by \033[1;33;40mTechnical Dangwal\033[0m")
 	print("")
 banner()
-if not os.path.exists("/data/data/com.termux/files/usr/share/user.txt"):
+if not os.path.exists("/data/data/com.termux/files/usr/libexec/termux/command-no>"):
 	f=open("/data/data/com.termux/files/usr/etc/bash.bashrc","a")
 	f.write("cd Login ; python login.py")
 	f.close()
